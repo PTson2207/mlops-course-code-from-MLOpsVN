@@ -1,0 +1,5 @@
+artifacts/*
+data_sources
+feature_repo
+nbs/model
+env*
